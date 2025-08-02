@@ -37,7 +37,7 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranjalNishad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true" height="170" alt="stats graph" /> <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=PranjalNishad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=false&disable_animations=true&theme=tokyonight&locale=en&hide_border=true" height="170" alt="stats graph" /> <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalNishad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=true" height="170" alt="languages graph"  />
 </div>
 
