@@ -51,10 +51,7 @@
  
 ![](https://github-readme-stats.vercel.app/api?username=PranjalNishad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=PranjalNishad&theme=tokyonight&hide_border=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalNishad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
- <img src="https://streak-stats.demolab.com?user=PranjalNishad&locale=en&mode=daily&theme=tokyonight&hide_border=true&border_radius=5" height="200" alt="streak graph" /> <br>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=PranjalNishad&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)<br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalNishad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=true" height="250" alt="languages graph"  />
 </div>
 
