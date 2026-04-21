@@ -44,7 +44,7 @@
 </div>
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranjalNishad&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=PranjalNishad&show_icons=true&theme=radical&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1")
 ## 📊 GitHub Stats
 
 <br clear="both">
