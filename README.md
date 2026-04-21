@@ -50,12 +50,9 @@
 
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=PranjalNishad&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true" height="200" alt="stats graph" /> <br>
- 
-
-![](https://nirzak-streak-stats.vercel.app/?user=PranjalNishad&theme=tokyonight&hide_border=true)<br/>
-
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalNishad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=7&theme=tokyonight&hide_border=true" height="250" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=PranjalNishad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=react&locale=en&hide_border=true&order=1" height="159" alt="stats graph" /> <br>
+  <img src="https://streak-stats.demolab.com?user=PranjalNishad&locale=en&mode=daily&theme=react&hide_border=true&border_radius=5&order=3" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=PranjalNishad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=react&hide_border=true&order=2&exclude_repo=NikeClone-Tailwind" height="197" alt="languages graph"  />
 </div>
 
 
